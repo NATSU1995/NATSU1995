@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **CAIYUN_EMAIL@163.COM**
 
-- ⚡ Fun fact **Be a Happy Mans~**
+- ⚡ Fun fact **Be a Happy Man~**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
