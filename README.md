@@ -1,50 +1,34 @@
-![me](https://github.com/L1cardo/L1cardo/raw/main/me.gif)
+<h1 align="center">Hi 👋, I'm Yun CAI</h1>
+<h3 align="center">A PhD Candidate in China</h3>
 
-<a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
-## Hey 👋, I'm Albert Abdilim
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=natsu1995&label=Profile%20views&color=0e75b6&style=flat" alt="natsu1995" /> </p>
 
-Hi there, I'm **Albert Abdilim**, a **medical student**.
-
-I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
-
-I love programming and I love Swift.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsu1995" alt="natsu1995" /></a> </p>
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a medical student at my 4th year; 
-- 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
-- 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
+- 🔭 I’m currently working on **SYSU**
 
-### Languages and Tools:
+- 🌱 I’m currently learning **Reinforce Learning & ADP**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
-![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+- 👯 I’m looking to collaborate on **Logistic & Supply Chain Management**
 
-### Contact me:
+- 📫 How to reach me **CAIYUN_EMAIL@163.COM**
 
-- Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
-- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
-- Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
-
-### I like running
-[![running](https://cdn.jsdelivr.net/gh/L1cardo/running_page@master/assets/github.svg)](https://running-page.l1cardo.vercel.app)
+- ⚡ Fun fact **Be a Happy Man~**
 
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/natsu1995/natsu1995/main/assets/github-contribution-grid-snake.svg)
 
-### My GitHub Stats
+<p align="left">
+</p>
 
-![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1cardo&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1cardo&layout=compact)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-⭐️ From [L1cardo](https://github.com/L1cardo)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natsu1995&show_icons=true&locale=en&layout=compact" alt="natsu1995" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natsu1995&show_icons=true&locale=en" alt="natsu1995" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natsu1995&" alt="natsu1995" /></p>
