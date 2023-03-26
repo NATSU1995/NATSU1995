@@ -19,7 +19,7 @@
 
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/natsu1995/natsu1995/main/assets/github-contribution-grid-snake.svg)
 
 <p align="left">
 </p>
