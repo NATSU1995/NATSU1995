@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently learning **Reinforce Learning & ADP**
 
-<<<<<<< HEAD
 - 👯 I’m looking to collaborate on **Logistic & Supply Chain Management**
-=======
-- 👯 I’m looking to collaborate on **Logistic and Supply Chain Management**
->>>>>>> b2f9a1735a6f4a879cb0edc2b00786a94b43c6dc
 
 - 📫 How to reach me **CAIYUN_EMAIL@163.COM**
 
