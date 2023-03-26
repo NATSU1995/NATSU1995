@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsu1995" alt="natsu1995" /></a> </p>
 
+### Talking about Personal Stuffs:
+
 - 🔭 I’m currently working on **SYSU**
 
 - 🌱 I’m currently learning **Reinforce Learning & ADP**
@@ -15,7 +17,10 @@
 
 - ⚡ Fun fact **Be a Happy Man~**
 
-<h3 align="left">Connect with me:</h3>
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
+
 <p align="left">
 </p>
 
