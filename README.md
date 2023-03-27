@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Yun CAI</h1>
 <h3 align="center">A PhD Candidate in China</h3>
 
-- ⏳ Year progress { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.32 %
-
 ---
 
-- ⏰ Updated on Mon, 27 Mar 2023 03:14:11 GMT
+- ⏳ Year progress { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.38 %
+
+- ⏰ Updated on Mon, 27 Mar 2023 06:12:42 GMT
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natsu1995&label=Profile%20views&color=0e75b6&style=flat" alt="natsu1995" /> </p>
 
@@ -23,11 +23,6 @@
 - 📫 How to reach me **CAIYUN_EMAIL@163.COM**
 
 - ⚡ Fun fact **Be a Happy Man~**
-
-### Recently Studying Plan
-
-- Reinforce Learning
-    - Limu's lab: <https://zh.d2l.ai/>
 
 ### My GitHub Contributions
 
