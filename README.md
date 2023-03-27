@@ -6,9 +6,8 @@
 
 ---
 
-- ⏰ Updated on Mon, 27 Mar 2023 03:10:53 GMT
+- ⏰ Updated on Mon, 27 Mar 2023 03:14:11 GMT
 
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natsu1995&label=Profile%20views&color=0e75b6&style=flat" alt="natsu1995" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsu1995" alt="natsu1995" /></a> </p>
@@ -40,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natsu1995&show_icons=true&locale=en" alt="natsu1995" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natsu1995&" alt="natsu1995" /></p>
-
