@@ -25,6 +25,11 @@
 
 - ⚡ Fun fact **Be a Happy Man~**
 
+### Recently Studying Plan
+
+- Reinforce Learning
+    - Limu's lab: <https://zh.d2l.ai/>
+
 ### My GitHub Contributions
 
 ![](https://raw.githubusercontent.com/natsu1995/natsu1995/main/assets/github-contribution-grid-snake.svg)

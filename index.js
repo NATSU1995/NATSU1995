@@ -18,9 +18,9 @@ const readme = `\
 <h1 align="center">Hi 👋, I'm Yun CAI</h1>
 <h3 align="center">A PhD Candidate in China</h3>
 
-- ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
-
 ---
+
+- ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
 - ⏰ Updated on ${new Date().toUTCString()}
 
