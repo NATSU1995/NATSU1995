@@ -4,9 +4,9 @@
 
 ---
 
-- ⏳ Year progress { █████████████████████████████▁ } 99.87 %
+- ⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.01 %
 
-- ⏰ Updated on Tue, 31 Dec 2024 12:14:28 GMT
+- ⏰ Updated on Wed, 01 Jan 2025 00:43:41 GMT
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natsu1995&label=Profile%20views&color=0e75b6&style=flat" alt="natsu1995" /> </p>
 
